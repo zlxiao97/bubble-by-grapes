@@ -1,0 +1,2 @@
+export const SELECTION_BORDER_WIDTH = 1;
+export const SELECTION_BOUND_MARGIN = 10;
